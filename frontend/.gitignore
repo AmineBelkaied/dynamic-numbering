@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.DS_Store
+*.log
+*.lock
+.idea/
+.vscode/
+docker-compose.override.yml
+*.bak
+*.tmp
+coverage/
+**/npm-debug.log*
+**/yarn-error.log
